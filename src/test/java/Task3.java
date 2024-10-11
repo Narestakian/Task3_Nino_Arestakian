@@ -18,7 +18,7 @@ public class Task3 {
             if (x != 0 && y != 0) {
                 System.out.println("Result: " + (x / y));
             } else {
-                System.out.println("Error: Division by zero is not allowed.");
+                System.out.println("Error: Divide by zero is prohibited.");
             }
         } else {
             System.out.println("Error: Invalid operator. Please use +, -, *, or /.");
